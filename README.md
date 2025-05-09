@@ -1,3 +1,17 @@
+
+## CS50 - Introduction to Programming with Python
+
+💡 Topics covered:
+
+- Python programming fundamentals
+
+- Algorithms, data structures, OOP
+
+- Problem solving and computational thinking
+
+All code is written from scratch following the course guidelines.
+------------------------------------------------------------
+## FINAL PROJECT 
 DNA to Protein Sequence Converter
 
 Video Demo: https://youtu.be/W1vTmMvFy5Y
